@@ -1,0 +1,8 @@
+definition_version: 2
+application:
+  name: Twing-Pulse
+  stage: dev
+  version: 0.1.0
+  streamlit:
+    main_file: src/streamlit/streamlit_app.py
+    environment: src/streamlit/environment.yml

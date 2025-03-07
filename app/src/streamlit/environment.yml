@@ -1,0 +1,8 @@
+name: twing_pulse_env
+channels:
+  - snowflake
+dependencies:
+  - python=3.8
+  - streamlit=1.22.0
+  - snowflake-snowpark-python
+  - pandas
